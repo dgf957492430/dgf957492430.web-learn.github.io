@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	hideDotFiles = dotGitOnly
+[remote "origin"]
+	url = https://github.com/dgf957492430/dgf957492430.web-learn.github.io.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = dgf957492430
+	password = dgf1995514
